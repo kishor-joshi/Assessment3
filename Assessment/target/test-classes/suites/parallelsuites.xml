@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" parallel="tests" thread-count="5" data-provider-thread-count="20" >
+
+
+  <test name="firefox" thread-count="5" >
+  <parameter name="browserType" value="firefox" />
+	 <classes >
+	 <class name="com.konakart.testscenarios.SpecificProductValidationScenario"/>
+	 </classes>
+   </test>
+   
+  <test name="ie" thread-count="5" >
+  <parameter name="browserType" value="ie" />
+     <classes>
+       <class name="com.konakart.testscenarios.SpecificProductValidationScenario"/>
+     </classes>
+   </test>
+</suite> <!-- Suite1 -->

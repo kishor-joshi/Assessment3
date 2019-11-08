@@ -1,0 +1,1068 @@
+2019-11-05 19:09:24 INFO  BaseClass:56 - IE browser launched
+2019-11-05 19:09:25 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:09:27 INFO  BaseClass:44 - chrome browser launched
+2019-11-05 19:09:31 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:09:34 INFO  BaseClass:50 - firefox browser launched
+2019-11-05 19:09:35 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:23 INFO  BaseClass:56 - IE browser launched
+2019-11-05 19:11:24 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:27 INFO  BaseClass:44 - chrome browser launched
+2019-11-05 19:11:28 INFO  BaseClass:83 - opened URL is currect
+2019-11-05 19:11:32 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:33 INFO  BaseClass:50 - firefox browser launched
+2019-11-05 19:11:34 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:44 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:35:39 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:35:44 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:35:51 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:37:14 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:37:18 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:37:26 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:39:59 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:40:06 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:40:15 INFO  BaseClass:83 - opened URL is currect
+2019-11-07 11:13:28 INFO  BaseClass:44 - chrome browser launched
+2019-11-07 11:13:33 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-07 11:18:04 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 11:18:09 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 11:18:16 INFO  BaseClass:84 - opened URL is currect
+2019-11-07 17:55:42 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 17:55:48 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 17:55:57 INFO  BaseClass:84 - opened URL is currect
+2019-11-07 17:58:26 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 17:58:31 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 17:58:39 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 10:46:51 INFO  BaseClass:57 - IE browser launched
+2019-11-08 10:46:52 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 10:46:53 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:01:11 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:01:12 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:01:13 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:02:01 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:02:02 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:02:03 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:03:00 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:03:01 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:03:02 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:05:51 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:05:52 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:05:53 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:06:53 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:06:54 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:06:55 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:10:19 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:10:20 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:10:22 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:11:48 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:11:49 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:11:50 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:14:07 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:14:08 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:14:09 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:14:49 INFO  BaseClass:45 - chrome browser launched
+2019-11-08 11:14:55 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:14:58 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:16:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:16:06 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:16:09 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:24:27 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:24:33 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:24:36 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:34:30 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:34:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:34:39 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:35:42 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:35:47 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:35:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:36:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:36:37 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:36:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:37:31 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:37:37 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:37:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:00:17 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:00:23 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:00:26 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:03:35 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:03:41 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:03:44 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:05:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:05:51 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:05:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:14:26 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:14:32 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:14:35 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:16:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:16:38 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:16:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:26:44 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:26:49 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:26:52 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:28:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:28:34 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:28:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:31:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:31:35 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:31:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:33:31 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:33:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:33:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:35:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:35:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:35:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:38:11 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:38:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:38:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:43:12 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:43:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:43:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:47:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:47:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:47:10 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:47:51 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:47:56 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:47:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:50:06 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:50:11 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:50:14 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:08:39 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:08:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:08:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:10:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:10:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:10:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:13:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:13:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:13:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:15:14 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:15:20 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:15:23 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:17:37 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:17:42 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:17:45 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:20:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:20:35 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:20:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:21:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:21:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:21:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:23:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:23:19 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:23:22 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:29:34 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:29:39 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:29:43 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:37:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:37:18 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:37:22 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:43:00 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:43:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:43:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:43:25 INFO  BaseClass:59 - product addrd to the cart is correct iPhone
+2019-11-08 13:47:26 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:47:31 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:47:34 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:47:51 INFO  BaseClass:62 - product addrd to the cart is correct iPhone
+2019-11-08 13:53:19 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:53:24 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:53:28 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:53:44 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:53:44 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:54:22 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:54:27 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:54:30 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:54:46 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:54:46 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:54:47 INFO  BaseClass:79 - product addrd to the cart is correct iPhone
+2019-11-08 13:54:47 INFO  BaseClass:81 - total price in the cart is correct $246.40
+2019-11-08 13:56:11 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:56:16 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:56:19 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:56:36 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:56:36 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:56:36 INFO  BaseClass:79 - product addrd to the cart is correct iPhone
+2019-11-08 13:56:36 INFO  BaseClass:81 - total price in the cart is correct $246.40
+2019-11-08 13:57:48 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:57:53 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:57:57 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:58:14 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:59:28 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:59:34 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:59:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:00:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:00:21 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:00:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:00:42 INFO  BaseClass:62 - product addrd to the cart is correct iPhone
+2019-11-08 14:03:02 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:03:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:03:11 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:04:00 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:04:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:04:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:04:52 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:04:57 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:05:00 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:05:11 INFO  BaseClass:49 - product addrd to the cart is correct iPhone
+2019-11-08 14:09:59 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:10:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:10:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:10:39 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:10:45 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:10:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:10:59 INFO  BaseClass:45 - product addrd to the cart is correct iPhone
+2019-11-08 14:10:59 INFO  BaseClass:49 - total price in the cart is correct $246.40
+2019-11-08 14:11:00 INFO  BaseClass:66 - product addrd to the cart is correct iPhone
+2019-11-08 14:12:07 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:12:12 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:12:16 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:12:27 INFO  BaseClass:45 - product addrd to the cart is correct iPhone
+2019-11-08 14:12:27 INFO  BaseClass:49 - total price in the cart is correct $246.40
+2019-11-08 14:12:28 INFO  BaseClass:68 - product addrd to the cart is correct iPhone
+2019-11-08 14:13:25 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:13:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:13:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:14:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:14:06 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:14:09 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:15:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:15:21 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:15:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:16:58 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:17:03 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:17:06 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:18:05 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:18:11 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:18:14 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:19:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:19:51 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:19:54 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:20:55 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:21:00 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:21:04 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:21:16 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:21:16 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:21:16 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:22:49 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:22:54 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:22:57 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:23:08 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:23:08 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:23:08 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:25:02 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:25:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:25:11 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:25:38 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:25:43 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:25:47 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:25:57 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:25:57 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:25:57 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:28:08 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:28:13 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:28:16 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:28:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:28:47 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:28:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:29:03 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:29:03 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:29:03 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:29:03 INFO  BaseClass:80 - total price in the cart is correct $246.40
+2019-11-08 14:30:44 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:30:50 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:30:53 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:31:21 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:31:26 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:31:30 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:32:09 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:32:14 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:32:18 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:32:29 INFO  BaseClass:52 - product addrd to the cart is correct iPhone
+2019-11-08 14:32:29 INFO  BaseClass:54 - total price in the cart is correct $246.40
+2019-11-08 14:32:29 INFO  BaseClass:60 - product addrd to the cart is correct MacBook Air
+2019-11-08 14:33:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:33:52 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:33:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:34:06 INFO  BaseClass:52 - product addrd to the cart is correct iPhone
+2019-11-08 14:34:06 INFO  BaseClass:54 - total price in the cart is correct $246.40
+2019-11-08 14:34:06 INFO  BaseClass:60 - product addrd to the cart is correct MacBook Air
+2019-11-08 14:35:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:35:38 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:35:41 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:36:12 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:36:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:36:20 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:36:50 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:36:56 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:36:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:37:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:37:39 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:37:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:41:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:41:29 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:41:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:41:56 INFO  BaseClass:30 - macBook Air product added to the cart
+2019-11-08 14:42:20 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:42:25 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:42:28 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:42:34 INFO  BaseClass:30 - iPhone product added to the cart
+2019-11-08 14:42:37 INFO  BaseClass:30 - macBook Air product added to the cart
+2019-11-08 15:33:28 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:33:33 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:33:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:33:39 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:33:44 INFO  BaseClass:31 - iPhone product added to the cart
+2019-11-08 15:33:44 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:33:48 INFO  BaseClass:31 - macBook Air product added to the cart
+2019-11-08 15:33:50 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 15:33:50 INFO  BaseClass:56 - total price in the cart is correct $246.40
+2019-11-08 15:33:50 INFO  BaseClass:62 - product addrd to the cart is correct MacBook Air
+2019-11-08 15:33:50 INFO  BaseClass:66 - total price in the cart is correct $3,606.00
+2019-11-08 15:33:50 INFO  BaseClass:77 - product addrd to the cart is correct iPhone
+2019-11-08 15:33:50 INFO  BaseClass:79 - total price in the cart is correct $246.40
+2019-11-08 15:45:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:45:52 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:45:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:45:57 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:46:02 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:46:02 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:46:06 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:52:53 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:52:59 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:53:03 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:53:05 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:53:09 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:53:10 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:53:13 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:53:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:53:51 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:53:54 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:53:56 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:54:00 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:54:01 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:54:05 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:54:54 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:54:59 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:55:03 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:55:04 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:55:08 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:55:09 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:55:12 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:55:16 INFO  BaseClass:57 - product addrd to the cart is correct iPhone
+2019-11-08 15:55:16 INFO  BaseClass:59 - total price in the cart is correct $246.40
+2019-11-08 15:55:16 INFO  BaseClass:60 - 1st product validation passed iPhone
+2019-11-08 15:55:16 INFO  BaseClass:68 - product addrd to the cart is correct MacBook Air
+2019-11-08 15:55:16 INFO  BaseClass:71 - total price in the cart is correct $3,606.00
+2019-11-08 15:55:16 INFO  BaseClass:72 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 15:55:16 INFO  BaseClass:81 - product is removed from the cart
+2019-11-08 15:55:17 INFO  BaseClass:86 - product addrd to the cart is correct iPhone
+2019-11-08 15:55:17 INFO  BaseClass:88 - total price in the cart is correct $246.40
+2019-11-08 15:55:17 INFO  BaseClass:89 - product validation passed after removed one product from the cart
+2019-11-08 15:55:38 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:55:44 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:55:47 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:55:48 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:55:52 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:55:53 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:55:56 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:55:59 INFO  BaseClass:57 - product addrd to the cart is correct iPhone
+2019-11-08 15:55:59 INFO  BaseClass:59 - total price in the cart is correct $246.40
+2019-11-08 15:55:59 INFO  BaseClass:60 - 1st product validation passed iPhone
+2019-11-08 15:56:00 INFO  BaseClass:68 - product addrd to the cart is correct MacBook Air
+2019-11-08 15:56:00 INFO  BaseClass:71 - total price in the cart is correct $3,606.00
+2019-11-08 15:56:00 INFO  BaseClass:72 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 15:56:00 INFO  BaseClass:81 - product is removed from the cart
+2019-11-08 15:56:00 INFO  BaseClass:86 - product addrd to the cart is correct iPhone
+2019-11-08 15:56:00 INFO  BaseClass:88 - total price in the cart is correct $246.40
+2019-11-08 15:56:00 INFO  BaseClass:89 - product validation passed after removed one product from the cart
+2019-11-08 15:57:43 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 15:57:48 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 15:57:52 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 15:57:53 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 15:57:57 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 15:57:57 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 15:58:00 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 15:58:04 INFO  BaseClass:57 - product addrd to the cart is correct iPhone
+2019-11-08 15:58:04 INFO  BaseClass:59 - total price in the cart is correct $246.40
+2019-11-08 15:58:04 INFO  BaseClass:60 - 1st product validation passed iPhone
+2019-11-08 15:58:04 INFO  BaseClass:68 - product addrd to the cart is correct MacBook Air
+2019-11-08 15:58:04 INFO  BaseClass:71 - total price in the cart is correct $3,606.00
+2019-11-08 15:58:04 INFO  BaseClass:72 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 15:58:04 INFO  BaseClass:81 - product is removed from the cart
+2019-11-08 15:58:05 INFO  BaseClass:86 - product addrd to the cart is correct iPhone
+2019-11-08 15:58:05 INFO  BaseClass:88 - total price in the cart is correct $246.40
+2019-11-08 15:58:05 INFO  BaseClass:89 - product validation passed after removed one product from the cart
+2019-11-08 16:13:05 INFO  BaseClass:59 - IE browser launched
+2019-11-08 16:13:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:13:09 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:13:12 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 16:13:45 INFO  BaseClass:59 - IE browser launched
+2019-11-08 16:13:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:13:47 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:13:49 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 16:14:23 INFO  BaseClass:59 - IE browser launched
+2019-11-08 16:14:24 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:14:25 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:14:27 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 16:15:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:15:06 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:15:10 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:15:11 INFO  BaseClass:24 - iPhone search product name iPhone
+2019-11-08 16:15:16 INFO  BaseClass:32 - iPhone product added to the cart
+2019-11-08 16:15:17 INFO  BaseClass:24 - macBook Air search product name macBook Air
+2019-11-08 16:15:19 INFO  BaseClass:32 - macBook Air product added to the cart
+2019-11-08 16:15:23 INFO  BaseClass:57 - product addrd to the cart is correct iPhone
+2019-11-08 16:15:23 INFO  BaseClass:59 - total price in the cart is correct $246.40
+2019-11-08 16:15:23 INFO  BaseClass:60 - 1st product validation passed iPhone
+2019-11-08 16:15:24 INFO  BaseClass:68 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:15:24 INFO  BaseClass:71 - total price in the cart is correct $3,606.00
+2019-11-08 16:15:24 INFO  BaseClass:72 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:15:24 INFO  BaseClass:81 - product is removed from the cart
+2019-11-08 16:15:24 INFO  BaseClass:86 - product addrd to the cart is correct iPhone
+2019-11-08 16:15:24 INFO  BaseClass:88 - total price in the cart is correct $246.40
+2019-11-08 16:15:24 INFO  BaseClass:89 - product validation passed after removed one product from the cart
+2019-11-08 16:25:59 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:26:04 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:26:07 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:26:09 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 16:26:13 INFO  BaseClass:35 - iPhone product added to the cart
+2019-11-08 16:26:13 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 16:26:16 INFO  BaseClass:35 - macBook Air product added to the cart
+2019-11-08 16:26:20 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 16:26:20 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 16:26:20 INFO  BaseClass:63 - 1st product validation passed iPhone
+2019-11-08 16:26:20 INFO  BaseClass:71 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:26:20 INFO  BaseClass:74 - total price in the cart is correct $3,606.00
+2019-11-08 16:26:20 INFO  BaseClass:75 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:26:20 INFO  BaseClass:84 - product is removed from the cart
+2019-11-08 16:26:21 INFO  BaseClass:89 - product addrd to the cart is correct iPhone
+2019-11-08 16:26:21 INFO  BaseClass:91 - total price in the cart is correct $246.40
+2019-11-08 16:26:21 INFO  BaseClass:92 - product validation passed after removed one product from the cart
+2019-11-08 16:26:49 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:26:54 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:26:58 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:26:59 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 16:27:04 INFO  BaseClass:35 - iPhone product added to the cart
+2019-11-08 16:27:05 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 16:27:08 INFO  BaseClass:35 - macBook Air product added to the cart
+2019-11-08 16:27:12 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 16:27:12 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 16:27:12 INFO  BaseClass:63 - 1st product validation passed iPhone
+2019-11-08 16:27:12 INFO  BaseClass:71 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:27:12 INFO  BaseClass:74 - total price in the cart is correct $3,606.00
+2019-11-08 16:27:12 INFO  BaseClass:75 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:27:12 INFO  BaseClass:84 - product is removed from the cart
+2019-11-08 16:27:12 INFO  BaseClass:89 - product addrd to the cart is correct iPhone
+2019-11-08 16:27:12 INFO  BaseClass:91 - total price in the cart is correct $246.40
+2019-11-08 16:27:12 INFO  BaseClass:92 - product validation passed after removed one product from the cart
+2019-11-08 16:32:15 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:32:20 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:32:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:32:26 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 16:32:31 INFO  BaseClass:37 - iPhone product added to the cart
+2019-11-08 16:32:31 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 16:32:34 INFO  BaseClass:37 - macBook Air product added to the cart
+2019-11-08 16:32:38 INFO  BaseClass:62 - product addrd to the cart is correct iPhone
+2019-11-08 16:32:38 INFO  BaseClass:64 - total price in the cart is correct $246.40
+2019-11-08 16:32:38 INFO  BaseClass:65 - 1st product validation passed iPhone
+2019-11-08 16:32:39 INFO  BaseClass:73 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:32:39 INFO  BaseClass:76 - total price in the cart is correct $3,606.00
+2019-11-08 16:32:39 INFO  BaseClass:77 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:32:39 INFO  BaseClass:86 - product is removed from the cart
+2019-11-08 16:32:39 INFO  BaseClass:91 - product addrd to the cart is correct iPhone
+2019-11-08 16:32:39 INFO  BaseClass:93 - total price in the cart is correct $246.40
+2019-11-08 16:32:39 INFO  BaseClass:94 - product validation passed after removed one product from the cart
+2019-11-08 16:34:40 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:34:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:34:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:34:50 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 16:34:54 INFO  BaseClass:38 - iPhone product added to the cart
+2019-11-08 16:34:55 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 16:34:58 INFO  BaseClass:38 - macBook Air product added to the cart
+2019-11-08 16:35:02 INFO  BaseClass:63 - product addrd to the cart is correct iPhone
+2019-11-08 16:35:02 INFO  BaseClass:65 - total price in the cart is correct $246.40
+2019-11-08 16:35:02 INFO  BaseClass:66 - 1st product validation passed iPhone
+2019-11-08 16:35:02 INFO  BaseClass:74 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:35:02 INFO  BaseClass:77 - total price in the cart is correct $3,606.00
+2019-11-08 16:35:02 INFO  BaseClass:78 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:35:03 INFO  BaseClass:87 - product is removed from the cart
+2019-11-08 16:35:03 INFO  BaseClass:92 - product addrd to the cart is correct iPhone
+2019-11-08 16:35:03 INFO  BaseClass:94 - total price in the cart is correct $246.40
+2019-11-08 16:35:03 INFO  BaseClass:95 - product validation passed after removed one product from the cart
+2019-11-08 16:53:26 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:53:59 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:55:55 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:56:43 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:56:48 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 16:56:51 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 16:56:53 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 16:56:56 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 16:56:57 INFO  BaseClass:39 - iPhone product added to the cart
+2019-11-08 16:56:58 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 16:57:01 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 16:57:02 INFO  BaseClass:39 - macBook Air product added to the cart
+2019-11-08 16:57:06 INFO  BaseClass:64 - product addrd to the cart is correct iPhone
+2019-11-08 16:57:06 INFO  BaseClass:66 - total price in the cart is correct $246.40
+2019-11-08 16:57:06 INFO  BaseClass:67 - 1st product validation passed iPhone
+2019-11-08 16:57:06 INFO  BaseClass:75 - product addrd to the cart is correct MacBook Air
+2019-11-08 16:57:06 INFO  BaseClass:78 - total price in the cart is correct $3,606.00
+2019-11-08 16:57:06 INFO  BaseClass:79 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 16:57:06 INFO  BaseClass:88 - product is removed from the cart
+2019-11-08 16:57:06 INFO  BaseClass:93 - product addrd to the cart is correct iPhone
+2019-11-08 16:57:06 INFO  BaseClass:95 - total price in the cart is correct $246.40
+2019-11-08 16:57:06 INFO  BaseClass:96 - product validation passed after removed one product from the cart
+2019-11-08 16:57:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 16:59:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:00:36 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:05:25 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:05:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 17:05:34 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:06:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:06:37 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 17:06:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:09:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:11:05 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:13:17 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:14:03 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:19:53 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:22:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:23:54 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:25:59 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:26:03 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 17:26:06 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:26:08 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 17:27:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:28:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:28:47 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:28:53 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:31:53 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:31:58 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:31:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:42:04 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:42:09 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:42:10 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:43:36 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:43:51 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:43:52 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:44:44 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:44:59 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:45:00 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:45:25 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:45:30 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:45:31 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:46:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:46:35 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:46:36 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:50:10 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:50:43 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 17:50:48 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 17:50:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 17:50:49 INFO  BaseClass:17 - clicking on HOME
+2019-11-08 17:50:50 INFO  BaseClass:19 - navigated to: HOME
+2019-11-08 17:50:50 INFO  BaseClass:17 - clicking on HOT SAUCES
+2019-11-08 17:50:51 INFO  BaseClass:19 - navigated to: HOT SAUCES
+2019-11-08 17:50:51 INFO  BaseClass:17 - clicking on MERCHANDISE
+2019-11-08 17:50:52 INFO  BaseClass:19 - navigated to: MERCHANDISE
+2019-11-08 17:50:52 INFO  BaseClass:17 - clicking on CLEARANCE
+2019-11-08 17:50:53 INFO  BaseClass:19 - navigated to: CLEARANCE
+2019-11-08 17:50:53 INFO  BaseClass:17 - clicking on NEW TO HOT SAUCE?
+2019-11-08 17:50:53 INFO  BaseClass:19 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 17:50:53 INFO  BaseClass:17 - clicking on FAQ
+2019-11-08 17:50:54 INFO  BaseClass:19 - navigated to: FAQ
+2019-11-08 18:13:57 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:14:02 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:14:03 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:14:03 INFO  BaseClass:18 - clicking on HOME
+2019-11-08 18:14:04 INFO  BaseClass:20 - navigated to: HOME
+2019-11-08 18:14:04 INFO  BaseClass:18 - clicking on HOT SAUCES
+2019-11-08 18:14:05 INFO  BaseClass:20 - navigated to: HOT SAUCES
+2019-11-08 18:14:05 INFO  BaseClass:18 - clicking on MERCHANDISE
+2019-11-08 18:14:06 INFO  BaseClass:20 - navigated to: MERCHANDISE
+2019-11-08 18:14:06 INFO  BaseClass:18 - clicking on CLEARANCE
+2019-11-08 18:14:07 INFO  BaseClass:20 - navigated to: CLEARANCE
+2019-11-08 18:14:07 INFO  BaseClass:18 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:14:08 INFO  BaseClass:20 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:14:08 INFO  BaseClass:18 - clicking on FAQ
+2019-11-08 18:14:09 INFO  BaseClass:20 - navigated to: FAQ
+2019-11-08 18:16:35 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:16:40 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:16:41 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:16:41 INFO  BaseClass:18 - clicking on HOME
+2019-11-08 18:16:42 INFO  BaseClass:20 - navigated to: HOME
+2019-11-08 18:16:42 INFO  BaseClass:18 - clicking on HOT SAUCES
+2019-11-08 18:16:43 INFO  BaseClass:20 - navigated to: HOT SAUCES
+2019-11-08 18:16:43 INFO  BaseClass:18 - clicking on MERCHANDISE
+2019-11-08 18:16:44 INFO  BaseClass:20 - navigated to: MERCHANDISE
+2019-11-08 18:16:44 INFO  BaseClass:18 - clicking on CLEARANCE
+2019-11-08 18:16:44 INFO  BaseClass:20 - navigated to: CLEARANCE
+2019-11-08 18:16:45 INFO  BaseClass:18 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:16:45 INFO  BaseClass:20 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:16:45 INFO  BaseClass:18 - clicking on FAQ
+2019-11-08 18:16:46 INFO  BaseClass:20 - navigated to: FAQ
+2019-11-08 18:19:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:19:46 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:19:47 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:19:48 INFO  BaseClass:18 - clicking on HOME
+2019-11-08 18:19:48 INFO  BaseClass:20 - navigated to: HOME
+2019-11-08 18:19:48 INFO  BaseClass:18 - clicking on HOT SAUCES
+2019-11-08 18:19:49 INFO  BaseClass:20 - navigated to: HOT SAUCES
+2019-11-08 18:19:50 INFO  BaseClass:18 - clicking on MERCHANDISE
+2019-11-08 18:19:50 INFO  BaseClass:20 - navigated to: MERCHANDISE
+2019-11-08 18:19:50 INFO  BaseClass:18 - clicking on CLEARANCE
+2019-11-08 18:19:51 INFO  BaseClass:20 - navigated to: CLEARANCE
+2019-11-08 18:19:51 INFO  BaseClass:18 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:19:52 INFO  BaseClass:20 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:19:52 INFO  BaseClass:18 - clicking on FAQ
+2019-11-08 18:19:53 INFO  BaseClass:20 - navigated to: FAQ
+2019-11-08 18:28:10 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:28:15 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:28:16 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:28:17 INFO  BaseClass:20 - clicking on HOME
+2019-11-08 18:28:18 INFO  BaseClass:22 - navigated to: HOME
+2019-11-08 18:31:43 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:31:48 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:31:53 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:31:54 INFO  BaseClass:20 - clicking on HOME
+2019-11-08 18:31:55 INFO  BaseClass:22 - navigated to: HOME
+2019-11-08 18:31:55 INFO  BaseClass:20 - clicking on HOT SAUCES
+2019-11-08 18:31:56 INFO  BaseClass:22 - navigated to: HOT SAUCES
+2019-11-08 18:31:56 INFO  BaseClass:20 - clicking on MERCHANDISE
+2019-11-08 18:31:57 INFO  BaseClass:22 - navigated to: MERCHANDISE
+2019-11-08 18:31:57 INFO  BaseClass:20 - clicking on CLEARANCE
+2019-11-08 18:31:57 INFO  BaseClass:22 - navigated to: CLEARANCE
+2019-11-08 18:31:58 INFO  BaseClass:20 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:31:58 INFO  BaseClass:22 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:31:58 INFO  BaseClass:20 - clicking on FAQ
+2019-11-08 18:31:59 INFO  BaseClass:22 - navigated to: FAQ
+2019-11-08 18:34:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:34:37 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:34:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:34:40 INFO  BaseClass:21 - clicking on HOME
+2019-11-08 18:34:40 INFO  BaseClass:23 - navigated to: HOME
+2019-11-08 18:35:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:35:21 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:35:23 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:35:24 INFO  BaseClass:21 - clicking on HOME
+2019-11-08 18:35:25 INFO  BaseClass:23 - navigated to: HOME
+2019-11-08 18:35:25 INFO  BaseClass:29 - content present in HOME content is HOT SAUCE AFICIONADO?
+2019-11-08 18:35:25 INFO  BaseClass:21 - clicking on HOT SAUCES
+2019-11-08 18:35:26 INFO  BaseClass:23 - navigated to: HOT SAUCES
+2019-11-08 18:35:27 INFO  BaseClass:29 - content present in HOT SAUCES content is Viewing Hot Sauces (1 - 15 of 19)
+2019-11-08 18:35:27 INFO  BaseClass:21 - clicking on MERCHANDISE
+2019-11-08 18:35:28 INFO  BaseClass:23 - navigated to: MERCHANDISE
+2019-11-08 18:35:28 INFO  BaseClass:29 - content present in MERCHANDISE content is Viewing Merchandise (1 - 6 of 6)
+2019-11-08 18:35:28 INFO  BaseClass:21 - clicking on CLEARANCE
+2019-11-08 18:35:29 INFO  BaseClass:23 - navigated to: CLEARANCE
+2019-11-08 18:35:29 INFO  BaseClass:29 - content present in CLEARANCE content is Viewing Clearance (1 - 5 of 5)
+2019-11-08 18:35:29 INFO  BaseClass:21 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:35:29 INFO  BaseClass:23 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:35:29 INFO  BaseClass:29 - content present in NEW TO HOT SAUCE? content is This is an example of a content-managed page.
+2019-11-08 18:35:30 INFO  BaseClass:21 - clicking on FAQ
+2019-11-08 18:35:30 INFO  BaseClass:23 - navigated to: FAQ
+2019-11-08 18:35:30 INFO  BaseClass:29 - content present in FAQ content is This is an example of a content-managed page.
+2019-11-08 18:44:48 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:44:53 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:44:54 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:44:55 INFO  BaseClass:26 - clicking on HOME
+2019-11-08 18:44:55 INFO  BaseClass:28 - navigated to: HOME
+2019-11-08 18:44:55 INFO  BaseClass:34 - content validated in: HOME content is: HOT SAUCE AFICIONADO?
+2019-11-08 18:44:56 INFO  BaseClass:26 - clicking on HOT SAUCES
+2019-11-08 18:44:57 INFO  BaseClass:28 - navigated to: HOT SAUCES
+2019-11-08 18:44:57 INFO  BaseClass:34 - content validated in: HOT SAUCES content is: Viewing Hot Sauces (1 - 15 of 19)
+2019-11-08 18:44:57 INFO  BaseClass:26 - clicking on MERCHANDISE
+2019-11-08 18:44:58 INFO  BaseClass:28 - navigated to: MERCHANDISE
+2019-11-08 18:44:58 INFO  BaseClass:34 - content validated in: MERCHANDISE content is: Viewing Merchandise (1 - 6 of 6)
+2019-11-08 18:44:58 INFO  BaseClass:26 - clicking on CLEARANCE
+2019-11-08 18:44:58 INFO  BaseClass:28 - navigated to: CLEARANCE
+2019-11-08 18:44:59 INFO  BaseClass:34 - content validated in: CLEARANCE content is: Viewing Clearance (1 - 5 of 5)
+2019-11-08 18:44:59 INFO  BaseClass:26 - clicking on NEW TO HOT SAUCE?
+2019-11-08 18:44:59 INFO  BaseClass:28 - navigated to: NEW TO HOT SAUCE?
+2019-11-08 18:44:59 INFO  BaseClass:34 - content validated in: NEW TO HOT SAUCE? content is: This is an example of a content-managed page.
+2019-11-08 18:44:59 INFO  BaseClass:26 - clicking on FAQ
+2019-11-08 18:45:00 INFO  BaseClass:28 - navigated to: FAQ
+2019-11-08 18:45:00 INFO  BaseClass:34 - content validated in: FAQ content is: This is an example of a content-managed page.
+2019-11-08 18:45:53 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:45:58 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:45:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:49:37 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:49:42 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:49:43 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:52:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:52:30 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:52:31 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:52:33 INFO  BaseClass:50 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 18:57:17 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 18:57:22 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 18:57:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 18:57:26 INFO  BaseClass:50 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:27:50 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:27:55 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:27:56 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:27:59 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:29:40 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:29:45 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:29:46 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:29:49 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:31:57 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:32:02 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:32:07 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:32:09 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:32:42 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:32:47 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:32:48 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:32:50 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:32:50 INFO  BaseClass:74 - colour selected
+2019-11-08 19:34:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:34:21 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:34:22 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:34:24 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:34:25 INFO  BaseClass:74 - colour selected
+2019-11-08 19:34:25 INFO  BaseClass:76 - size selected
+2019-11-08 19:34:25 INFO  BaseClass:78 - name sent
+2019-11-08 19:34:26 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:35:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:35:18 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:35:19 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:35:21 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:35:22 INFO  BaseClass:74 - colour selected
+2019-11-08 19:35:22 INFO  BaseClass:76 - size selected
+2019-11-08 19:35:22 INFO  BaseClass:78 - name sent
+2019-11-08 19:35:22 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:35:53 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:35:58 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:35:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:36:01 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:36:02 INFO  BaseClass:74 - colour selected
+2019-11-08 19:36:02 INFO  BaseClass:76 - size selected
+2019-11-08 19:36:02 INFO  BaseClass:78 - name sent
+2019-11-08 19:36:02 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:38:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:38:06 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:38:07 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:38:09 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:38:10 INFO  BaseClass:74 - colour selected
+2019-11-08 19:38:10 INFO  BaseClass:76 - size selected
+2019-11-08 19:38:10 INFO  BaseClass:78 - name sent
+2019-11-08 19:38:10 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:40:12 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:40:17 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:40:18 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:40:21 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:40:21 INFO  BaseClass:74 - colour selected
+2019-11-08 19:40:21 INFO  BaseClass:76 - size selected
+2019-11-08 19:40:21 INFO  BaseClass:78 - name sent
+2019-11-08 19:40:22 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:43:49 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:43:54 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:43:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:43:57 INFO  BaseClass:57 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:43:58 INFO  BaseClass:74 - colour selected
+2019-11-08 19:43:58 INFO  BaseClass:76 - size selected
+2019-11-08 19:43:58 INFO  BaseClass:78 - name sent
+2019-11-08 19:43:58 INFO  BaseClass:80 - clicked on buy button
+2019-11-08 19:58:15 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:58:18 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:58:19 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:58:21 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:58:22 INFO  BaseClass:70 - colour selected
+2019-11-08 19:58:22 INFO  BaseClass:72 - size selected
+2019-11-08 19:58:22 INFO  BaseClass:74 - name sent
+2019-11-08 19:58:22 INFO  BaseClass:76 - added to cart
+2019-11-08 19:58:23 INFO  BaseClass:85 - navigated to cart
+2019-11-08 19:59:15 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 19:59:20 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 19:59:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 19:59:23 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 19:59:24 INFO  BaseClass:70 - colour selected
+2019-11-08 19:59:24 INFO  BaseClass:72 - size selected
+2019-11-08 19:59:24 INFO  BaseClass:74 - name sent
+2019-11-08 19:59:24 INFO  BaseClass:76 - added to cart
+2019-11-08 19:59:24 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:01:52 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:01:57 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:01:58 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:02:00 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:02:01 INFO  BaseClass:70 - colour selected
+2019-11-08 20:02:01 INFO  BaseClass:72 - size selected
+2019-11-08 20:02:01 INFO  BaseClass:74 - name sent
+2019-11-08 20:02:01 INFO  BaseClass:76 - added to cart
+2019-11-08 20:02:02 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:03:28 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:03:33 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:03:34 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:03:36 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:03:36 INFO  BaseClass:70 - colour selected
+2019-11-08 20:03:37 INFO  BaseClass:72 - size selected
+2019-11-08 20:03:37 INFO  BaseClass:74 - name sent
+2019-11-08 20:03:37 INFO  BaseClass:76 - added to cart
+2019-11-08 20:03:37 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:04:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:04:52 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:04:56 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:04:58 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:04:59 INFO  BaseClass:70 - colour selected
+2019-11-08 20:04:59 INFO  BaseClass:72 - size selected
+2019-11-08 20:04:59 INFO  BaseClass:74 - name sent
+2019-11-08 20:04:59 INFO  BaseClass:76 - added to cart
+2019-11-08 20:05:00 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:07:14 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:07:19 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:07:20 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:07:23 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:07:24 INFO  BaseClass:70 - colour selected
+2019-11-08 20:07:24 INFO  BaseClass:72 - size selected
+2019-11-08 20:07:24 INFO  BaseClass:74 - name sent
+2019-11-08 20:07:24 INFO  BaseClass:76 - added to cart
+2019-11-08 20:07:24 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:10:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:10:39 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:10:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:10:42 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:10:43 INFO  BaseClass:70 - colour selected
+2019-11-08 20:10:43 INFO  BaseClass:72 - size selected
+2019-11-08 20:10:43 INFO  BaseClass:74 - name sent
+2019-11-08 20:10:43 INFO  BaseClass:76 - added to cart
+2019-11-08 20:10:44 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:14:36 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:14:41 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:14:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:14:45 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:14:45 INFO  BaseClass:70 - colour selected
+2019-11-08 20:14:45 INFO  BaseClass:72 - size selected
+2019-11-08 20:14:46 INFO  BaseClass:74 - name sent
+2019-11-08 20:14:46 INFO  BaseClass:76 - added to cart
+2019-11-08 20:14:46 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:22:49 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:22:54 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:22:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:22:58 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:22:58 INFO  BaseClass:70 - colour selected
+2019-11-08 20:22:59 INFO  BaseClass:72 - size selected
+2019-11-08 20:22:59 INFO  BaseClass:74 - name sent
+2019-11-08 20:22:59 INFO  BaseClass:76 - added to cart
+2019-11-08 20:22:59 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:23:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:23:52 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:23:54 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:23:56 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:23:57 INFO  BaseClass:70 - colour selected
+2019-11-08 20:23:57 INFO  BaseClass:72 - size selected
+2019-11-08 20:23:57 INFO  BaseClass:74 - name sent
+2019-11-08 20:23:57 INFO  BaseClass:76 - added to cart
+2019-11-08 20:23:57 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:25:31 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:25:36 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:25:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:25:39 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:25:40 INFO  BaseClass:70 - colour selected
+2019-11-08 20:25:40 INFO  BaseClass:72 - size selected
+2019-11-08 20:25:40 INFO  BaseClass:74 - name sent
+2019-11-08 20:25:40 INFO  BaseClass:76 - added to cart
+2019-11-08 20:25:40 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:25:41 INFO  BaseClass:102 - 
+2019-11-08 20:25:41 INFO  BaseClass:103 - Shirt Size: M
+2019-11-08 20:25:41 INFO  BaseClass:104 - Personalized Name: ninja
+2019-11-08 20:25:41 INFO  BaseClass:105 - 
+2019-11-08 20:25:41 INFO  BaseClass:106 - ****
+2019-11-08 20:28:18 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:28:24 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:28:25 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:28:27 INFO  BaseClass:55 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:28:28 INFO  BaseClass:70 - colour selected
+2019-11-08 20:28:28 INFO  BaseClass:72 - size selected
+2019-11-08 20:28:28 INFO  BaseClass:74 - name sent
+2019-11-08 20:28:28 INFO  BaseClass:76 - added to cart
+2019-11-08 20:28:28 INFO  BaseClass:85 - navigated to cart
+2019-11-08 20:28:29 INFO  BaseClass:102 - Hawt Like a Habanero Shirt (Men's)
+2019-11-08 20:28:29 INFO  BaseClass:103 - Shirt Size: M
+2019-11-08 20:28:29 INFO  BaseClass:104 - Personalized Name: ninja
+2019-11-08 20:28:29 INFO  BaseClass:105 - Shirt Color: Red
+2019-11-08 20:28:29 INFO  BaseClass:106 - ****
+2019-11-08 20:36:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:36:51 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:36:57 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:37:00 INFO  BaseClass:58 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:38:17 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:38:22 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:38:23 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:38:26 INFO  BaseClass:58 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:38:26 INFO  BaseClass:74 - colour selected
+2019-11-08 20:38:27 INFO  BaseClass:76 - size selected
+2019-11-08 20:38:27 INFO  BaseClass:78 - name sent
+2019-11-08 20:38:27 INFO  BaseClass:80 - added to cart
+2019-11-08 20:38:27 INFO  BaseClass:89 - navigated to cart
+2019-11-08 20:38:28 INFO  BaseClass:109 - Hawt Like a Habanero Shirt (Men's)
+2019-11-08 20:38:28 INFO  BaseClass:110 - Shirt Size: M
+2019-11-08 20:38:28 INFO  BaseClass:111 - Personalized Name: Ninja
+2019-11-08 20:38:28 INFO  BaseClass:112 - Shirt Color: Red
+2019-11-08 20:38:28 INFO  BaseClass:113 - ****
+2019-11-08 20:47:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:47:06 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:47:07 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:47:09 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:47:10 INFO  BaseClass:75 - colour selected
+2019-11-08 20:47:10 INFO  BaseClass:77 - size selected
+2019-11-08 20:47:10 INFO  BaseClass:79 - name sent
+2019-11-08 20:47:10 INFO  BaseClass:81 - added to cart
+2019-11-08 20:47:10 INFO  BaseClass:90 - navigated to cart
+2019-11-08 20:47:55 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:48:00 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:48:01 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:48:04 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:48:04 INFO  BaseClass:75 - colour selected
+2019-11-08 20:48:04 INFO  BaseClass:77 - size selected
+2019-11-08 20:48:05 INFO  BaseClass:79 - name sent
+2019-11-08 20:48:05 INFO  BaseClass:81 - added to cart
+2019-11-08 20:48:05 INFO  BaseClass:90 - navigated to cart
+2019-11-08 20:49:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:49:34 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:49:35 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:49:37 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:49:37 INFO  BaseClass:75 - colour selected
+2019-11-08 20:49:37 INFO  BaseClass:77 - size selected
+2019-11-08 20:49:38 INFO  BaseClass:79 - name sent
+2019-11-08 20:49:38 INFO  BaseClass:81 - added to cart
+2019-11-08 20:49:38 INFO  BaseClass:90 - navigated to cart
+2019-11-08 20:49:41 INFO  BaseClass:115 - Hawt Like a Habanero Shirt (Men's)
+2019-11-08 20:49:41 INFO  BaseClass:116 - Shirt Size: M
+2019-11-08 20:49:41 INFO  BaseClass:117 - Personalized Name: Ninja
+2019-11-08 20:49:41 INFO  BaseClass:118 - Shirt Color: Red
+2019-11-08 20:49:41 INFO  BaseClass:119 - ****
+2019-11-08 20:53:15 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:53:20 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:53:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:53:23 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:53:23 INFO  BaseClass:75 - colour selected
+2019-11-08 20:53:24 INFO  BaseClass:77 - size selected
+2019-11-08 20:53:24 INFO  BaseClass:79 - name sent
+2019-11-08 20:53:24 INFO  BaseClass:81 - added to cart
+2019-11-08 20:53:24 INFO  BaseClass:90 - navigated to cart
+2019-11-08 20:53:27 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 20:53:27 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 20:53:27 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 20:53:27 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 20:53:27 INFO  BaseClass:122 - ****
+2019-11-08 20:57:38 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 20:57:43 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 20:57:44 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 20:57:47 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 20:57:47 INFO  BaseClass:75 - colour selected
+2019-11-08 20:57:47 INFO  BaseClass:77 - size selected
+2019-11-08 20:57:47 INFO  BaseClass:79 - name sent
+2019-11-08 20:57:48 INFO  BaseClass:81 - added to cart
+2019-11-08 20:57:48 INFO  BaseClass:90 - navigated to cart
+2019-11-08 20:57:50 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 20:57:50 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 20:57:50 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 20:57:50 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 20:57:51 INFO  BaseClass:118 - perosnalName validated:passed $14.99
+2019-11-08 21:03:30 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:03:34 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 21:03:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:03:39 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 21:03:43 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 21:03:43 INFO  BaseClass:39 - iPhone product added to the cart
+2019-11-08 21:03:44 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 21:03:46 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 21:03:47 INFO  BaseClass:39 - macBook Air product added to the cart
+2019-11-08 21:03:50 INFO  BaseClass:64 - product addrd to the cart is correct iPhone
+2019-11-08 21:03:50 INFO  BaseClass:66 - total price in the cart is correct $246.40
+2019-11-08 21:03:50 INFO  BaseClass:67 - 1st product validation passed iPhone
+2019-11-08 21:03:50 INFO  BaseClass:75 - product addrd to the cart is correct MacBook Air
+2019-11-08 21:03:50 INFO  BaseClass:78 - total price in the cart is correct $3,606.00
+2019-11-08 21:03:50 INFO  BaseClass:79 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 21:03:51 INFO  BaseClass:88 - product is removed from the cart
+2019-11-08 21:03:51 INFO  BaseClass:93 - product addrd to the cart is correct iPhone
+2019-11-08 21:03:51 INFO  BaseClass:95 - total price in the cart is correct $246.40
+2019-11-08 21:03:51 INFO  BaseClass:96 - product validation passed after removed one product from the cart
+2019-11-08 21:04:15 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:04:20 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 21:04:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:04:24 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 21:04:25 INFO  BaseClass:75 - colour selected
+2019-11-08 21:04:25 INFO  BaseClass:77 - size selected
+2019-11-08 21:04:25 INFO  BaseClass:79 - name sent
+2019-11-08 21:04:25 INFO  BaseClass:81 - added to cart
+2019-11-08 21:04:26 INFO  BaseClass:90 - navigated to cart
+2019-11-08 21:04:28 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 21:04:28 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 21:04:28 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 21:04:28 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 21:04:29 INFO  BaseClass:119 - total price validated:passed $14.99
+2019-11-08 21:05:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:05:51 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 21:05:52 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:05:55 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 21:05:55 INFO  BaseClass:75 - colour selected
+2019-11-08 21:05:55 INFO  BaseClass:77 - size selected
+2019-11-08 21:05:55 INFO  BaseClass:79 - name sent
+2019-11-08 21:05:56 INFO  BaseClass:81 - added to cart
+2019-11-08 21:05:56 INFO  BaseClass:90 - navigated to cart
+2019-11-08 21:05:58 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 21:05:58 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 21:05:58 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 21:05:58 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 21:05:59 INFO  BaseClass:119 - total price validated:passed $14.99
+2019-11-08 21:07:06 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:07:11 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 21:07:12 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:07:15 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 21:07:15 INFO  BaseClass:75 - colour selected
+2019-11-08 21:07:15 INFO  BaseClass:77 - size selected
+2019-11-08 21:07:15 INFO  BaseClass:79 - name sent
+2019-11-08 21:07:16 INFO  BaseClass:81 - added to cart
+2019-11-08 21:07:16 INFO  BaseClass:90 - navigated to cart
+2019-11-08 21:07:18 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 21:07:18 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 21:07:18 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 21:07:18 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 21:07:56 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:08:01 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 21:08:03 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:08:05 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 21:08:06 INFO  BaseClass:75 - colour selected
+2019-11-08 21:08:06 INFO  BaseClass:77 - size selected
+2019-11-08 21:08:06 INFO  BaseClass:79 - name sent
+2019-11-08 21:08:06 INFO  BaseClass:81 - added to cart
+2019-11-08 21:08:07 INFO  BaseClass:90 - navigated to cart
+2019-11-08 21:08:09 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 21:08:09 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 21:08:09 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 21:08:09 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 21:08:09 INFO  BaseClass:117 - quenty updated
+2019-11-08 21:08:09 INFO  BaseClass:120 - total price validated:passed $14.99
+2019-11-08 21:08:10 INFO  BaseClass:123 - unit price validated:passed $14.99
+2019-11-08 21:09:40 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:09:45 INFO  BaseClass:82 - URL is loading http://10.10.10.232:8080/
+2019-11-08 21:09:46 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:09:49 INFO  BaseClass:59 - content validated in:Mens. content is: Viewing Mens (1 - 3 of 3)
+2019-11-08 21:09:49 INFO  BaseClass:75 - colour selected
+2019-11-08 21:09:49 INFO  BaseClass:77 - size selected
+2019-11-08 21:09:49 INFO  BaseClass:79 - name sent
+2019-11-08 21:09:49 INFO  BaseClass:81 - added to cart
+2019-11-08 21:09:50 INFO  BaseClass:90 - navigated to cart
+2019-11-08 21:09:52 INFO  BaseClass:107 - size validated:passed Shirt Size: M
+2019-11-08 21:09:52 INFO  BaseClass:109 - perosnalName validated:passed Personalized Name: Ninja
+2019-11-08 21:09:52 INFO  BaseClass:111 - Item Name validated:passed Hawt Like a Habanero Shirt (Men's)
+2019-11-08 21:09:52 INFO  BaseClass:113 - color validated:passed Shirt Color: Red
+2019-11-08 21:09:52 INFO  BaseClass:117 - quenty updated
+2019-11-08 21:09:52 INFO  BaseClass:120 - total price validated:passed $14.99
+2019-11-08 21:09:52 INFO  BaseClass:123 - unit price validated:passed $14.99
+2019-11-08 21:09:58 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 21:10:02 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 21:10:06 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 21:10:06 INFO  BaseClass:24 -  searched product name: iPhone
+2019-11-08 21:10:10 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 21:10:11 INFO  BaseClass:39 - iPhone product added to the cart
+2019-11-08 21:10:11 INFO  BaseClass:24 -  searched product name: macBook Air
+2019-11-08 21:10:14 INFO  BaseClass:34 - unit price is validated:passed 
+2019-11-08 21:10:15 INFO  BaseClass:39 - macBook Air product added to the cart
+2019-11-08 21:10:18 INFO  BaseClass:64 - product addrd to the cart is correct iPhone
+2019-11-08 21:10:18 INFO  BaseClass:66 - total price in the cart is correct $246.40
+2019-11-08 21:10:18 INFO  BaseClass:67 - 1st product validation passed iPhone
+2019-11-08 21:10:19 INFO  BaseClass:75 - product addrd to the cart is correct MacBook Air
+2019-11-08 21:10:19 INFO  BaseClass:78 - total price in the cart is correct $3,606.00
+2019-11-08 21:10:19 INFO  BaseClass:79 - 2nd product validation in the cart passed MacBook Air
+2019-11-08 21:10:19 INFO  BaseClass:88 - product is removed from the cart
+2019-11-08 21:10:19 INFO  BaseClass:93 - product addrd to the cart is correct iPhone
+2019-11-08 21:10:19 INFO  BaseClass:95 - total price in the cart is correct $246.40
+2019-11-08 21:10:19 INFO  BaseClass:96 - product validation passed after removed one product from the cart

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="TestSuite" parallel="tests">
+  <test thread-count="3" name="chrome" parallel="tests">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="com.tutoralninja.testscenario.TestScenaio"/>
+    </classes>
+  </test> <!-- chrome -->
+  <test thread-count="3" name="firefox" parallel="tests">
+    <parameter name="browserType" value="firefox"/>
+    <classes>
+      <class name="com.tutoralninja.testscenario.TestScenaio"/>
+    </classes>
+  </test> <!-- firefox -->
+  <test thread-count="3" name="ie" parallel="tests">
+    <parameter name="browserType" value="ie"/>
+    <classes>
+      <class name="com.tutoralninja.testscenario.TestScenaio"/>
+    </classes>
+  </test> <!-- ie -->
+</suite> <!-- TestSuite -->
